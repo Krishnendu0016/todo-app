@@ -34,7 +34,7 @@ This is a simple Todo application built with React and Mantine UI library. It al
 
 ### Credits:
 
-This Todo app was created by Krishnendu in 2023. 
+This Todo app was created by Krishnendu in 2024. 
 
 ---
 
