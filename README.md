@@ -1,49 +1,41 @@
-## Task Tracker App
+## React Todo App
 
-This repository contains a simple task tracker application built with React and Mantine UI components. It allows users to create, manage, and track their tasks efficiently.
+This is a simple Todo application built with React and Mantine UI library. It allows users to create, manage, and delete tasks. The app also supports dark mode, local storage for persisting tasks, and keyboard shortcuts for toggling color schemes.
 
-### Features
+### Features:
 
-- **Create Tasks:** Easily create new tasks by providing a title, summary, and deadline.
-- **Task Management:** Mark tasks as done or delete them as needed.
-- **Dark Mode:** Toggle between light and dark color schemes for comfortable viewing.
+- **Create Task:** Users can create a new task by providing a title, summary, and deadline.
+- **Manage Tasks:** Users can mark tasks as done, delete tasks, and view task details.
+- **Dark Mode:** The app supports dark mode, toggled by clicking on the sun/moon icon.
+- **Local Storage:** Tasks are saved to local storage, ensuring persistence even after page reload.
+- **Keyboard Shortcuts:** Users can toggle color schemes using the `mod+J` shortcut.
 
-### Usage
+### Technologies Used:
 
-1. Clone the repository to your local machine:
+- React
+- Mantine UI Library
+- Local Storage API
+- @mantine/hooks for managing color schemes and keyboard shortcuts.
 
-```
-git clone https://github.com/your-username/task-tracker-app.git
-```
+### Installation:
 
-2. Install dependencies:
+1. Clone the repository: `git clone [https://github.com/Krishnendu0016/todo-app.git]`
+2. Navigate to the project directory: `cd react-todo-app`
+3. Install dependencies: `npm install`
+4. Run the app: `npm start`
 
-```
-cd task-tracker-app
-npm install
-```
+### Usage:
 
-3. Run the application:
+- To create a new task, click on the "New Task" button, fill in the details, and click "Create Task".
+- To mark a task as done, click on the checkmark icon next to the task title.
+- To delete a task, click on the trash icon next to the task title.
+- Toggle between light and dark modes by clicking on the sun/moon icon.
+- Use the `mod+J` keyboard shortcut to toggle color schemes.
 
-```
-npm start
-```
+### Credits:
 
-4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-### Dependencies
-
-- Mantine UI: A React component library for building modern applications.
-- Tabler Icons React: Icons library used for visual elements.
-
-### Contributing
-
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This Todo app was created by Krishnendu in 2023. 
 
 ---
 
-*© 2023 Task Tracker App by [Krishnendu](https://github.com/Krishnendu0016). All rights reserved.*
+Feel free to customize and improve upon this Todo app according to your needs. If you have any questions or suggestions, please feel free to reach out. Contributions are also welcome!
