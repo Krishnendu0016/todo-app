@@ -8,7 +8,7 @@ This is a simple Todo application built with React and Mantine UI library. It al
 - **Manage Tasks:** Users can mark tasks as done, delete tasks, and view task details.
 - **Dark Mode:** The app supports dark mode, toggled by clicking on the sun/moon icon.
 - **Local Storage:** Tasks are saved to local storage, ensuring persistence even after page reload.
-- **Keyboard Shortcuts:** Users can toggle color schemes using the `mod+J` shortcut.
+- **Keyboard Shortcuts:** Users can toggle color schemes using the `window+J` shortcut.
 
 ### Technologies Used:
 
