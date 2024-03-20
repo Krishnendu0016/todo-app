@@ -30,7 +30,7 @@ This is a simple Todo application built with React and Mantine UI library. It al
 - To mark a task as done, click on the checkmark icon next to the task title.
 - To delete a task, click on the trash icon next to the task title.
 - Toggle between light and dark modes by clicking on the sun/moon icon.
-- Use the `mod+J` keyboard shortcut to toggle color schemes.
+- Use the `window + J` keyboard shortcut to toggle color schemes.
 
 ### Credits:
 
